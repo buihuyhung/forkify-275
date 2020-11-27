@@ -145,3 +145,9 @@ class RecipeView extends View {
 }
 
 export default new RecipeView();
+
+const newFeature = function () {
+  console.log('Welcome Welcome Welcome');
+};
+
+newFeature();
